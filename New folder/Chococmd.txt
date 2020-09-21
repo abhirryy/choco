@@ -5,6 +5,7 @@ echo "starting"
 $Packages = 'vscode', 
 'git',
 'Python',
+'steam',
 'javaruntime',
 '7zip',
 'notepadplusplus',
